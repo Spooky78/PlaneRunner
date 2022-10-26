@@ -1,6 +1,8 @@
 # PlaneRunner
-![Menu]("MainMenu.png")
-![Game]("GamePlay.png")
+
+![ScreenShot](MainMenu.png)
+
+![ScreenShot](GamePlay.png)
 
 This game was created in Java using JavaFX.
 
